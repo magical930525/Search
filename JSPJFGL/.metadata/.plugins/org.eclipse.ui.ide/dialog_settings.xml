@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item value="com.genuitec.eclipse.j2eedt.ui.wizard.WebProjectCreationWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="com.genuitec.eclipse.myeclipse"/>
+			<item value="com.genuitec.eclipse.myeclipse/com.genuitec.eclipse.myeclipse.j2ee"/>
+		</list>
+	</section>
+</section>

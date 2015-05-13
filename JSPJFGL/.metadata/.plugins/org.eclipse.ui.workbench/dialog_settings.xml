@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportResourcesAction">
+		<item value="org.eclipse.ui.wizards.import.FileSystem" key="WizardListSelectionPage.STORE_SELECTED_WIZARD_ID"/>
+	</section>
+</section>

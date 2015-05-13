@@ -1,0 +1,63 @@
+.s {
+	FONT-SIZE: 12px; LINE-HEIGHT: 13pt
+}
+.p {
+	FONT-SIZE: 13px; LINE-HEIGHT: 14pt
+}
+.m {
+	FONT-SIZE: 14px; LINE-HEIGHT: 15pt
+}
+.b {
+	FONT-SIZE: 16px; LINE-HEIGHT: 20pt
+}
+.k {
+	FONT-SIZE: 13px; COLOR: #000080; LINE-HEIGHT: 20px
+}
+.j {
+	FONT-SIZE: 10pt
+}
+.h {
+	FONT-SIZE: 30px
+}
+.shadow {
+	FONT-SIZE: 12px; FILTER: DropShadow(color=#ffffff,offX=1, offY=1, Positive=1); WIDTH: 100%; COLOR: #000000; LINE-HEIGHT: 13pt; POSITION: relative
+}
+A {
+	TEXT-DECORATION: none
+}
+A:link {
+	COLOR: black; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: black; TEXT-DECORATION: none
+}
+A:active {
+	TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: red; TEXT-DECORATION: underline
+}
+.tx {
+	FILTER: Shadow(Color=#000000, Direction=135); COLOR: #ffcc33; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; POSITION: absolute
+}
+BODY {
+	FONT-SIZE: 9pt
+}
+TD {
+	FONT-SIZE: 9pt
+}
+.text {
+	BORDER-RIGHT: #dfdfdf 1px solid; BORDER-TOP: #484848 1px solid; FONT-SIZE: 9pt; BACKGROUND: #ffffff; BORDER-LEFT: #484848 1px solid; COLOR: #454545; BORDER-BOTTOM: #dfdfdf 1px solid
+}
+.bottom {
+	BORDER-RIGHT: #665b8e 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #ffffff 1px solid; COLOR: #000000; FONT-FAMILY: ËÎÌו; HEIGHT: 20px; BACKGROUND-COLOR: #f7f7f7
+}
+.stbtm {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #ffffff 1px solid; WIDTH: 50px; COLOR: #000000; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 20px; BACKGROUND-COLOR: #f3f3f3
+}
+.shadow3 {
+	FONT-SIZE: 12px; FILTER: DropShadow(color=white,offX=1, offY=1, Positive=1); WIDTH: 100%; COLOR: black; LINE-HEIGHT: 13pt; POSITION: relative
+}
+.shadow4 {
+	FONT-SIZE: 12px; FILTER: DropShadow(color=#FFFF99,offX=1, offY=1, Positive=1); WIDTH: 100%; COLOR: #ff6600; LINE-HEIGHT: 13pt; POSITION: relative
+}

@@ -1,0 +1,856 @@
+BODY {
+	SCROLLBAR-FACE-COLOR: #e6e6e6; FONT-SIZE: 12px; MARGIN: 0px; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #ffffff; COLOR: #646464; SCROLLBAR-3DLIGHT-COLOR: #b0b0b0; LINE-HEIGHT: normal; SCROLLBAR-ARROW-COLOR: #666666; SCROLLBAR-TRACK-COLOR: #f5f5f5; FONT-FAMILY: "宋体"; SCROLLBAR-DARKSHADOW-COLOR: #9c9c9c; BACKGROUND-COLOR: white; scrollbar-color: #B0B0B0
+}
+INPUT {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: ??,gulim,sans-serif
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: "宋体"
+}
+SELECT {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: ??,gulim,sans-serif
+}
+TEXTAREA {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: ??,gulim,sans-serif
+}
+.nor {
+	FONT-WEIGHT: normal; FILTER: DropShadow(Color=#ffffff, OffX=1, OffY=1, Positive=1)
+}
+.nor2 {
+	FONT-WEIGHT: normal; FILTER: DropShadow(Color=#000000, OffX=1, OffY=1, Positive=1); COLOR: #ffffff; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+IMG {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+A:link {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+.p12 {
+	FONT-SIZE: 12px
+}
+A.p12:link {
+	FONT-SIZE: 12px
+}
+A.p12:visited {
+	FONT-SIZE: 12px
+}
+A.p12:hover {
+	FONT-SIZE: 12px
+}
+A.p12:active {
+	FONT-SIZE: 12px
+}
+.p13 {
+	FONT-SIZE: 13px
+}
+A.p13:link {
+	FONT-SIZE: 13px
+}
+A.p13:visited {
+	FONT-SIZE: 13px
+}
+A.p13:hover {
+	FONT-SIZE: 13px
+}
+A.p13:active {
+	FONT-SIZE: 13px
+}
+.p14 {
+	FONT-SIZE: 14px
+}
+A.p14:link {
+	FONT-SIZE: 14px
+}
+A.p14:visited {
+	FONT-SIZE: 14px
+}
+A.p14:hover {
+	FONT-SIZE: 14px
+}
+A.p14:active {
+	FONT-SIZE: 14px
+}
+.p16 {
+	FONT-SIZE: 16px
+}
+A.p16:link {
+	FONT-SIZE: 16px
+}
+A.p16:visited {
+	FONT-SIZE: 16px
+}
+A.p16:hover {
+	FONT-SIZE: 16px
+}
+A.p16:active {
+	FONT-SIZE: 16px
+}
+.b {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #000000; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.b:link {
+	FONT-WEIGHT: bold
+}
+A.b:visited {
+	FONT-WEIGHT: bold
+}
+A.b:hover {
+	FONT-WEIGHT: bold
+}
+A.b:active {
+	FONT-WEIGHT: bold
+}
+.bb {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.bb:link {
+	FONT-WEIGHT: bold
+}
+A.bb:visited {
+	FONT-WEIGHT: bold
+}
+A.bb:hover {
+	FONT-WEIGHT: bold
+}
+A.bb:active {
+	FONT-WEIGHT: bold
+}
+.b2 {
+	FONT-WEIGHT: bold; LETTER-SPACING: -1px
+}
+A.b2:link {
+	FONT-WEIGHT: bold; LETTER-SPACING: -1px
+}
+A.b2:visited {
+	FONT-WEIGHT: bold; LETTER-SPACING: -1px
+}
+A.b2:hover {
+	FONT-WEIGHT: bold; LETTER-SPACING: -1px
+}
+A.b2:active {
+	FONT-WEIGHT: bold; LETTER-SPACING: -1px
+}
+.u {
+	TEXT-DECORATION: underline
+}
+A.u:link {
+	TEXT-DECORATION: underline
+}
+A.u:visited {
+	TEXT-DECORATION: underline
+}
+A.u:hover {
+	TEXT-DECORATION: underline
+}
+A.u:active {
+	TEXT-DECORATION: underline
+}
+.nu {
+	TEXT-DECORATION: none
+}
+A.nu:link {
+	TEXT-DECORATION: none
+}
+A.nu:visited {
+	TEXT-DECORATION: none
+}
+A.nu:hover {
+	TEXT-DECORATION: none
+}
+A.nu:active {
+	TEXT-DECORATION: none
+}
+.ls {
+	LETTER-SPACING: -1px
+}
+.ls2 {
+	LETTER-SPACING: -2px
+}
+.ln13 {
+	LINE-HEIGHT: 1.3
+}
+.ln14 {
+	LINE-HEIGHT: 1.4
+}
+.ln15 {
+	LINE-HEIGHT: 1.5
+}
+.ln16 {
+	LINE-HEIGHT: 1.6
+}
+.ln17 {
+	LINE-HEIGHT: 1.7
+}
+.ln18 {
+	LINE-HEIGHT: 1.8
+}
+.dm {
+	FONT-FAMILY: ??
+}
+A:link {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #339900; TEXT-DECORATION: underline
+}
+A.main:link {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A.main:visited {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A.main:active {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A.main:hover {
+	COLOR: #339900; TEXT-DECORATION: underline
+}
+.w {
+	COLOR: #ffffff
+}
+A.w:link {
+	COLOR: #666666
+}
+A.w:visited {
+	COLOR: #666666
+}
+A.w:hover {
+	COLOR: #666666
+}
+A.w:active {
+	COLOR: #666666
+}
+.o01 {
+	COLOR: #ff6600
+}
+A.o01:link {
+	COLOR: #ff6600
+}
+A.o01:visited {
+	COLOR: #ff6600
+}
+A.o01:hover {
+	COLOR: #ff6600
+}
+A.o01:active {
+	COLOR: #ff6600
+}
+.o02 {
+	COLOR: #f26511
+}
+A.o02:link {
+	COLOR: #f26511
+}
+A.o02:visited {
+	COLOR: #f26511
+}
+A.o02:hover {
+	COLOR: #f26511
+}
+A.o02:active {
+	COLOR: #f26511
+}
+.lime01 {
+	COLOR: #befa01
+}
+A.lime01:link {
+	COLOR: #befa01
+}
+A.lime01:visited {
+	COLOR: #befa01
+}
+A.lime01:hover {
+	COLOR: #befa01
+}
+A.lime01:active {
+	COLOR: #befa01
+}
+.lime02 {
+	COLOR: #89fd04
+}
+A.lime02:link {
+	COLOR: #89fd04
+}
+A.lime02:visited {
+	COLOR: #89fd04
+}
+A.lime02:hover {
+	COLOR: #89fd04
+}
+A.lime02:active {
+	COLOR: #89fd04
+}
+.o02 {
+	COLOR: #cf4900
+}
+A.o02:link {
+	COLOR: #cf4900
+}
+A.o02:visited {
+	COLOR: #cf4900
+}
+A.o02:hover {
+	COLOR: #cf4900
+}
+A.o02:active {
+	COLOR: #cf4900
+}
+.o03 {
+	COLOR: #e27603
+}
+A.o03:link {
+	COLOR: #e27603
+}
+A.o03:visited {
+	COLOR: #e27603
+}
+A.o03:hover {
+	COLOR: #e27603
+}
+A.o03:active {
+	COLOR: #e27603
+}
+.o04 {
+	COLOR: #eb380f
+}
+A.o04:link {
+	COLOR: #eb380f
+}
+A.o04:visited {
+	COLOR: #eb380f
+}
+A.o04:hover {
+	COLOR: #eb380f
+}
+A.o04:active {
+	COLOR: #eb380f
+}
+.o05 {
+	COLOR: #e77138
+}
+A.o05:link {
+	COLOR: #e77138
+}
+A.o05:visited {
+	COLOR: #e77138
+}
+A.o05:hover {
+	COLOR: #e77138
+}
+A.o05:active {
+	COLOR: #e77138
+}
+.brn {
+	COLOR: #78682c
+}
+A.brn:link {
+	COLOR: #78682c
+}
+A.brn:visited {
+	COLOR: #78682c
+}
+A.brn:hover {
+	COLOR: #78682c
+}
+A.brn:active {
+	COLOR: #78682c
+}
+.bl01 {
+	COLOR: #00309c
+}
+A.bl01:link {
+	COLOR: #00309c
+}
+A.bl01:visited {
+	COLOR: #00309c
+}
+A.bl01:hover {
+	COLOR: #00309c
+}
+A.bl01:active {
+	COLOR: #00309c
+}
+.bl02 {
+	COLOR: #3b6289
+}
+A.bl02:link {
+	COLOR: #3b6289
+}
+A.bl02:visited {
+	COLOR: #3b6289
+}
+A.bl02:hover {
+	COLOR: #3b6289
+}
+A.bl02:active {
+	COLOR: #3b6289
+}
+.bl03 {
+	COLOR: #0c254f
+}
+A.bl03:link {
+	COLOR: #0c254f
+}
+A.bl03:visited {
+	COLOR: #0c254f
+}
+A.bl03:hover {
+	COLOR: #0c254f
+}
+A.bl03:active {
+	COLOR: #0c254f
+}
+.bl04 {
+	COLOR: #1f22b1
+}
+A.bl04:link {
+	COLOR: #1f22b1
+}
+A.bl04:visited {
+	COLOR: #1f22b1
+}
+A.bl04:hover {
+	COLOR: #1f22b1
+}
+A.bl04:active {
+	COLOR: #1f22b1
+}
+.bl05 {
+	COLOR: #2929d6
+}
+A.bl05:link {
+	COLOR: #2929d6
+}
+A.bl05:visited {
+	COLOR: #2929d6
+}
+A.bl05:hover {
+	COLOR: #2929d6
+}
+A.bl05:active {
+	COLOR: #2929d6
+}
+.bl06 {
+	COLOR: #2c5478
+}
+A.bl06:link {
+	COLOR: #2c5478
+}
+A.bl06:visited {
+	COLOR: #2c5478
+}
+A.bl06:hover {
+	COLOR: #2c5478
+}
+A.bl06:active {
+	COLOR: #2c5478
+}
+.bl07 {
+	COLOR: #455f86
+}
+A.bl07:link {
+	COLOR: #455f86
+}
+A.bl07:visited {
+	COLOR: #455f86
+}
+A.bl07:hover {
+	COLOR: #455f86
+}
+A.bl07:active {
+	COLOR: #455f86
+}
+.brn01 {
+	COLOR: #78682c
+}
+A.brn01:link {
+	COLOR: #78682c
+}
+A.brn01:visited {
+	COLOR: #78682c
+}
+A.brn01:hover {
+	COLOR: #78682c
+}
+A.brn01:active {
+	COLOR: #78682c
+}
+.brn02 {
+	COLOR: #b46e4b
+}
+A.brn02:link {
+	COLOR: #b46e4b
+}
+A.brn02:visited {
+	COLOR: #b46e4b
+}
+A.brn02:hover {
+	COLOR: #b46e4b
+}
+A.brn02:active {
+	COLOR: #b46e4b
+}
+.aq01 {
+	COLOR: #3061a3
+}
+A.aq01:link {
+	COLOR: #3061a3
+}
+A.aq01:visited {
+	COLOR: #3061a3
+}
+A.aq01:hover {
+	COLOR: #3061a3
+}
+A.aq01:active {
+	COLOR: #3061a3
+}
+.aq02 {
+	COLOR: #86fff8
+}
+A.aq02:link {
+	COLOR: #86fff8
+}
+A.aq02:visited {
+	COLOR: #86fff8
+}
+A.aq02:hover {
+	COLOR: #86fff8
+}
+A.aq02:active {
+	COLOR: #86fff8
+}
+.red01 {
+	COLOR: #ab1717
+}
+A.red01:link {
+	COLOR: #ab1717
+}
+A.red01:visited {
+	COLOR: #ab1717
+}
+A.red01:hover {
+	COLOR: #ab1717
+}
+A.red01:active {
+	COLOR: #ab1717
+}
+.red02 {
+	COLOR: #cf4900
+}
+A.red02:link {
+	COLOR: #cf4900
+}
+A.red02:visited {
+	COLOR: #cf4900
+}
+A.red02:hover {
+	COLOR: #cf4900
+}
+A.red02:active {
+	COLOR: #cf4900
+}
+.red03 {
+	COLOR: #b04d6d
+}
+A.red03:link {
+	COLOR: #b04d6d
+}
+A.red03:visited {
+	COLOR: #b04d6d
+}
+A.red03:hover {
+	COLOR: #b04d6d
+}
+A.red03:active {
+	COLOR: #b04d6d
+}
+.red04 {
+	COLOR: #864557
+}
+A.red04:link {
+	COLOR: #864557
+}
+A.red04:visited {
+	COLOR: #864557
+}
+A.red04:hover {
+	COLOR: #864557
+}
+A.red04:active {
+	COLOR: #864557
+}
+.3dbox {
+	BORDER-RIGHT: #d7d7d7 1px solid; BORDER-TOP: #909090 1px solid; BORDER-LEFT: #909090 1px solid; BORDER-BOTTOM: #d7d7d7 1px solid
+}
+.slide {
+	BORDER-RIGHT: #dc4522 4px solid; BORDER-TOP: #dc4522 4px solid; BORDER-LEFT: #dc4522 4px solid; BORDER-BOTTOM: #dc4522 4px solid
+}
+.box01 {
+	BORDER-RIGHT: #c4cad1 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #c4cad1 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 1px; BORDER-LEFT: #c4cad1 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #c4cad1 1px solid; BACKGROUND-COLOR: #ffffff
+}
+A.rollover IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; DISPLAY: inline; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+A.rollover IMG.over {
+	DISPLAY: none
+}
+A.rollover:hover {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+A.rollover:hover IMG {
+	DISPLAY: none
+}
+A.rollover:hover IMG.over {
+	DISPLAY: inline
+}
+.photo {
+	BORDER-RIGHT: #43c900 3px solid; BORDER-TOP: #43c900 3px solid; BORDER-LEFT: #43c900 3px solid; BORDER-BOTTOM: #43c900 3px solid
+}
+TD.photo_on {
+	BACKGROUND-COLOR: #43c900
+}
+TD.photo_off {
+	BACKGROUND-COLOR: #f1f1f1
+}
+.p25 {
+	FONT-SIZE: 25px
+}
+.box02 {
+	BORDER-RIGHT: #c4cad1 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #c4cad1 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; BORDER-LEFT: #c4cad1 1px solid; PADDING-TOP: 3px; BORDER-BOTTOM: #c4cad1 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.btn_align01 {
+	MARGIN: 0px 0px -3px 1px
+}
+.btn_align02 {
+	MARGIN: 0px 0px -4px 1px
+}
+.bl07 {
+	COLOR: #004172
+}
+A.bl07:link {
+	COLOR: #004172
+}
+A.bl07:visited {
+	COLOR: #004172
+}
+A.bl07:hover {
+	COLOR: #004172
+}
+A.bl07:active {
+	COLOR: #004172
+}
+.bl08 {
+	COLOR: #3169b5
+}
+A.bl08:link {
+	COLOR: #3169b5
+}
+A.bl08:visited {
+	COLOR: #3169b5
+}
+A.bl08:hover {
+	COLOR: #3169b5
+}
+A.bl08:active {
+	COLOR: #3169b5
+}
+.p27 {
+	FONT-SIZE: 27px
+}
+A.p27:link {
+	FONT-SIZE: 27px
+}
+A.p27:visited {
+	FONT-SIZE: 27px
+}
+A.p27:hover {
+	FONT-SIZE: 27px
+}
+A.p27:active {
+	FONT-SIZE: 27px
+}
+.b3 {
+	FONT-WEIGHT: bold; LETTER-SPACING: -4px
+}
+A.b3:link {
+	FONT-WEIGHT: bold; LETTER-SPACING: -4px
+}
+A.b3:visited {
+	FONT-WEIGHT: bold; LETTER-SPACING: -4px
+}
+A.b3:hover {
+	FONT-WEIGHT: bold; LETTER-SPACING: -4px
+}
+A.b3:active {
+	FONT-WEIGHT: bold; LETTER-SPACING: -4px
+}
+.vdn {
+	FONT-FAMILY: verdana
+}
+.box03 {
+	BORDER-RIGHT: #d7d7d7 1px solid; BORDER-TOP: #d7d7d7 1px solid; BORDER-LEFT: #d7d7d7 1px solid; BORDER-BOTTOM: #d7d7d7 1px solid
+}
+.box04 {
+	BORDER-RIGHT: #c6cbd6 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #c6cbd6 1px solid; PADDING-LEFT: 9px; PADDING-BOTTOM: 0px; BORDER-LEFT: #c6cbd6 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #c6cbd6 1px solid
+}
+.o06 {
+	COLOR: #ff7d00
+}
+A.o06:link {
+	COLOR: #ff7d00
+}
+A.o06:visited {
+	COLOR: #ff7d00
+}
+A.o06:hover {
+	COLOR: #ff7d00
+}
+A.o06:active {
+	COLOR: #ff7d00
+}
+.scroll {
+	SCROLLBAR-FACE-COLOR: #ffffff; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #c8c7c7; SCROLLBAR-3DLIGHT-COLOR: #e1e0e0; SCROLLBAR-ARROW-COLOR: #ef6d18; SCROLLBAR-TRACK-COLOR: #f7f7f7; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; SCROLLBAR-BASE-COLOR: #e1e0e0
+}
+.wscroll {
+	SCROLLBAR-FACE-COLOR: #aad2e6; SCROLLBAR-HIGHLIGHT-COLOR: #cae1f6; SCROLLBAR-SHADOW-COLOR: #8cafd1; SCROLLBAR-3DLIGHT-COLOR: #759fc6; SCROLLBAR-ARROW-COLOR: #436387; SCROLLBAR-TRACK-COLOR: #698fb2; SCROLLBAR-DARKSHADOW-COLOR: #698fb2; SCROLLBAR-BASE-COLOR: #698fb2
+}
+.tab00 {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; PADDING-TOP: 12px; HEIGHT: 33px
+}
+.cbbx {
+	PADDING-RIGHT: 0px; BORDER-TOP: #c6c6c6 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 1px; BORDER-LEFT: #c6c6c6 1px solid; COLOR: #333333; PADDING-TOP: 3px; BORDER-BOTTOM: #c6c6c6 1px solid
+}
+.cbbt {
+	BORDER-RIGHT: #c6c6c6 1px solid; BORDER-TOP: #c6c6c6 1px solid; CURSOR: hand; COLOR: #333333; BORDER-BOTTOM: #c6c6c6 1px solid; BACKGROUND-COLOR: #fff
+}
+.bl09 {
+	COLOR: #0043a7
+}
+A.bl09:link {
+	COLOR: #0043a7
+}
+A.bl09:visited {
+	COLOR: #0043a7
+}
+A.bl09:hover {
+	COLOR: #0043a7
+}
+A.bl09:active {
+	COLOR: #0043a7
+}
+.scroll01 {
+	SCROLLBAR-FACE-COLOR: #ffffff; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #c8c7c7; SCROLLBAR-3DLIGHT-COLOR: #e1e0e0; SCROLLBAR-ARROW-COLOR: #757575; SCROLLBAR-TRACK-COLOR: #f7f7f7; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; SCROLLBAR-BASE-COLOR: #e1e0e0
+}
+.search {
+	BACKGROUND: url(http://static.naver.com/n/local/206/map/nvr/bg_input.gif) no-repeat; FLOAT: left; WIDTH: 237px; POSITION: relative; HEIGHT: 27px
+}
+.search INPUT {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; FONT-SIZE: 11px; LEFT: 7px; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none; FONT-FAMILY: ??,dotum; POSITION: absolute; TOP: 7px
+}
+.hb {
+	FONT-SIZE: 12px; FILTER: DropShadow(Color=#FFFFFF, OffX=1, OffY=1, Positive=1); COLOR: #333333; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.style14 {
+	FONT-WEIGHT: bold; COLOR: #000000
+}
+.style15 {
+	COLOR: #000000
+}
+.style5 {
+	FONT-WEIGHT: bold; COLOR: #ff6600
+}
+.hb1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FILTER: DropShadow(Color=#FFFFFF, OffX=1, OffY=1, Positive=1); COLOR: #ff6600; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.hb {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FILTER: DropShadow(Color=#FFFFFF, OffX=1, OffY=1, Positive=1); COLOR: #ff6600; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+.menu:link {
+	FONT-SIZE: 8pt; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.menu:visited {
+	FONT-SIZE: 8pt; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.menu:active {
+	FONT-SIZE: 8pt; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.menu:hover {
+	FONT-SIZE: 8pt; LEFT: 1px; FONT-FAMILY: Tahoma; POSITION: relative; TOP: 1px; TEXT-DECORATION: none
+}
+.input {
+	BORDER-RIGHT: #e5e5e5 1px solid; BORDER-TOP: #e5e5e5 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #e5e5e5 1px solid; COLOR: #555555; BORDER-BOTTOM: #e5e5e5 1px solid; HEIGHT: 18px
+}
+.inputfs {
+	BORDER-RIGHT: #e5e5e5 1px solid; BORDER-TOP: #e5e5e5 1px solid; FONT-SIZE: 9pt; BACKGROUND: #f5f5f5; BORDER-LEFT: #e5e5e5 1px solid; COLOR: #555555; BORDER-BOTTOM: #e5e5e5 1px solid; HEIGHT: 18px
+}
+.sinput {
+	BORDER-RIGHT: #e5e5e5 1px solid; BORDER-TOP: #e5e5e5 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #e5e5e5 1px solid; WIDTH: 100px; COLOR: #555555; BORDER-BOTTOM: #e5e5e5 1px solid; HEIGHT: 18px
+}
+.textarea {
+	BORDER-RIGHT: #e5e5e5 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #e5e5e5 1px solid; PADDING-LEFT: 4px; SCROLLBAR-FACE-COLOR: #ffffff; FONT-SIZE: 9pt; BACKGROUND: #ffffff; PADDING-BOTTOM: 4px; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; BORDER-LEFT: #e5e5e5 1px solid; SCROLLBAR-SHADOW-COLOR: #ffffff; COLOR: #555555; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #dddddd; PADDING-TOP: 4px; SCROLLBAR-TRACK-COLOR: #ffffff; BORDER-BOTTOM: #e5e5e5 1px solid; SCROLLBAR-DARKSHADOW-COLOR: #ffffff
+}
+.cmt_input {
+	BORDER-RIGHT: #dddddd 1px solid; BORDER-TOP: #dddddd 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #dddddd 1px solid; COLOR: #555555; BORDER-BOTTOM: #dddddd 1px solid; HEIGHT: 18px
+}
+
+.select8pt {
+	FONT-SIZE: 8pt
+}
+.select {
+	FONT-SIZE: 9pt
+}
+.chkbox {
+	WIDTH: 15px; HEIGHT: 15px
+}
+.boldtext {
+	FONT-WEIGHT: bold
+}
+.text8pt {
+	FONT-SIZE: 8pt
+}
+.barcolor {
+	BACKGROUND: #ebebeb
+}
+.border {
+	BORDER-RIGHT: #ebebeb 1px solid; BORDER-TOP: #ebebeb 1px solid; BORDER-LEFT: #ebebeb 1px solid; BORDER-BOTTOM: #ebebeb 1px solid
+}
+.bordertb {
+	BORDER-TOP: #ebebeb 1px solid; BORDER-BOTTOM: #ebebeb 1px solid
+}
+.input12 {
+	BORDER-RIGHT: #e5e5e5 1px solid; BORDER-TOP: #e5e5e5 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #e5e5e5 1px solid; WIDTH: 100px; COLOR: #555555; BORDER-BOTTOM: #e5e5e5 1px solid; HEIGHT: 18px
+}
+.p16Copy {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #000000; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.t14 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 18px
+}
+.nor3 {
+	FONT-WEIGHT: normal; FILTER: DropShadow(Color=#235C78, OffX=1, OffY=1, Positive=1)
+}
+.gsc1 {
+	DISPLAY: none; PADDING-LEFT: 20px; WIDTH: 200px; POSITION: absolute; HEIGHT: 313px
+}
+.12txt18 {
+	COLOR: #000000; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}

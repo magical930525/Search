@@ -1,0 +1,78 @@
+!SESSION 2007-07-09 21:17:46.515 -----------------------------------------------
+eclipse.buildId=I20050627-1435
+java.version=1.6.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CN
+Command-line arguments:  -data C:\Documents and Settings\Administrator\桌面\备份\soft\源文件\JSPJFGL -os win32 -ws win32 -arch x86
+
+!ENTRY com.ibm.sse.snippets 4 4 2007-07-09 21:17:59.671
+!MESSAGE SnippetManager could not load hidden state
+!STACK 0
+java.net.MalformedURLException: unknown protocol: c
+	at java.net.URL.<init>(Unknown Source)
+	at java.net.URL.<init>(Unknown Source)
+	at java.net.URL.<init>(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(Unknown Source)
+	at javax.xml.parsers.DocumentBuilder.parse(Unknown Source)
+	at com.ibm.sse.snippets.internal.model.SnippetManager.loadHiddenState(SnippetManager.java:251)
+	at com.ibm.sse.snippets.internal.model.SnippetManager.getDefinitions(SnippetManager.java:142)
+	at com.genuitec.eclipse.snippetinstaller.SnippetInstaller.installLibrary(SnippetInstaller.java:41)
+	at com.aston.AstonWizardsPlugin.installSnippetLibraries(AstonWizardsPlugin.java:323)
+	at com.aston.AstonWizardsPlugin.startup(AstonWizardsPlugin.java:283)
+	at org.eclipse.core.internal.compatibility.PluginActivator.start(PluginActivator.java:31)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl$2.run(BundleContextImpl.java:994)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.startActivator(BundleContextImpl.java:988)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.start(BundleContextImpl.java:969)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.startWorker(BundleHost.java:321)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:266)
+	at org.eclipse.core.internal.plugins.PluginDescriptor.doPluginActivation(PluginDescriptor.java:361)
+	at org.eclipse.core.internal.plugins.PluginDescriptor.getPlugin(PluginDescriptor.java:340)
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.getPluginForCompatibility(EarlyStartupRunnable.java:145)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:73)
+	at org.eclipse.core.internal.runtime.InternalPlatform.run(InternalPlatform.java:1044)
+	at org.eclipse.core.runtime.Platform.run(Platform.java:783)
+	at org.eclipse.ui.internal.Workbench$20.run(Workbench.java:1587)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:76)
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2007-07-09 21:17:59.828
+!MESSAGE Installed snippet library: c:\Program Files\MyEclipse\eclipse\plugins\com.genuitec.eclipse.wizards_3.9.310\snippets\css_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2007-07-09 21:17:59.906
+!MESSAGE Installed snippet library: c:\Program Files\MyEclipse\eclipse\plugins\com.genuitec.eclipse.wizards_3.9.310\snippets\forms_lists_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2007-07-09 21:17:59.968
+!MESSAGE Installed snippet library: c:\Program Files\MyEclipse\eclipse\plugins\com.genuitec.eclipse.wizards_3.9.310\snippets\htmlform_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2007-07-09 21:18:00.31
+!MESSAGE Installed snippet library: c:\Program Files\MyEclipse\eclipse\plugins\com.genuitec.eclipse.wizards_3.9.310\snippets\html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2007-07-09 21:18:00.93
+!MESSAGE Installed snippet library: c:\Program Files\MyEclipse\eclipse\plugins\com.genuitec.eclipse.wizards_3.9.310\snippets\javascript_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2007-07-09 21:18:00.187
+!MESSAGE Installed snippet library: c:\Program Files\MyEclipse\eclipse\plugins\com.genuitec.eclipse.wizards_3.9.310\snippets\jsf_f_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2007-07-09 21:18:00.281
+!MESSAGE Installed snippet library: c:\Program Files\MyEclipse\eclipse\plugins\com.genuitec.eclipse.wizards_3.9.310\snippets\jsf_h_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2007-07-09 21:18:00.375
+!MESSAGE Installed snippet library: c:\Program Files\MyEclipse\eclipse\plugins\com.genuitec.eclipse.wizards_3.9.310\snippets\struts_bean_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2007-07-09 21:18:00.484
+!MESSAGE Installed snippet library: c:\Program Files\MyEclipse\eclipse\plugins\com.genuitec.eclipse.wizards_3.9.310\snippets\struts_html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2007-07-09 21:18:00.562
+!MESSAGE Installed snippet library: c:\Program Files\MyEclipse\eclipse\plugins\com.genuitec.eclipse.wizards_3.9.310\snippets\struts_logic_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2007-07-09 21:18:00.656
+!MESSAGE Installed snippet library: c:\Program Files\MyEclipse\eclipse\plugins\com.genuitec.eclipse.wizards_3.9.310\snippets\struts_tiles_snippets.xml

@@ -1,0 +1,236 @@
+@import url("local.css");
+.text {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #FFFFFF;
+}
+.black14 {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #000000;
+}
+A.black14:link {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #000000;
+}
+A.black14:visited {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #000000;
+}
+A.black14:hover {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #000000;
+}
+A.black14:active{ 
+font-family: "宋体";
+	font-size: 14px;
+	color: #000000;
+	}
+
+.input_2 {
+	border: 1px solid #CCCCCC;
+}
+.black141 {
+	padding-top: 6px;
+}
+
+
+.input_1 {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #000000;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #000000;
+	height: 16px;
+	background-position: left center;
+	top: auto;
+	line-height: normal;
+}
+.input_4 {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #000000;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #000000;
+	height: 18px;
+	background-position: left center;
+	top: auto;
+	line-height: normal;
+	background-color: #E7E7E7;
+}
+.w141 {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #FFFFFF;
+	padding-top: 6px;
+}
+
+.w {
+	COLOR: #FFFFFF
+}
+A.w:link {
+	COLOR: #FFFFFF
+}
+A.w:visited {
+	COLOR: #FFFFFF
+}
+A.w:hover {
+	COLOR: #FFFFFF
+}
+A.w:active {
+	COLOR: #FFFFFF
+}.input_3 {
+	background-color: #F2D48D;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #000000;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #000000;
+	line-height: normal;
+	height: 16px;
+	background-position: center;
+	padding-top: 1px;
+}
+.caidanwz {
+	padding-top: 8px;
+}
+.ssss {
+	padding-top: 12px;
+}
+.sscd{font-family: "宋体";
+	font-size: 12px;
+	color: #FFFFFF;
+}
+
+A.sscd:visited {
+	font-family: "宋体";
+	font-size: 12px;
+	color: #FFFFFF;
+}
+A.sscd:link {
+	font-family: "宋体";
+	font-size: 12px;
+	color: #FFFFFF;
+}
+A.sscd:hover {
+	font-family: "宋体";
+	font-size: 12px;
+	color: #FFFFFF;
+}
+A.sscd:active {
+	font-family: "宋体";
+	font-size: 12px;
+	color: #FFFFFF;
+}
+.w14 {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #FFFFFF;
+}
+.STYLE18 {
+color: #FF0000; font-size: 14px;
+}
+a.STYLE18:link {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #FF0000;
+}
+a.STYLE18:visited {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #FF0000;
+}
+a.STYLE17:link {
+	font-size: 12px;
+	color: #FF0000;
+}
+
+a.STYLE18:hover {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #FF0000;
+}
+a.STYLE18:active {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #FF0000;
+}
+.STYLE17 {
+color: #FF0000
+}
+a.STYLE17:visited {
+	font-size: 12px;
+	color: #FF0000;
+}
+a.STYLE17:hover {
+	font-size: 12px;
+	color: #FF0000;
+}
+a.STYLE17:active {
+	font-size: 12px;
+	color: #FF0000;
+}
+.w12 {
+	font-family: "宋体";
+	font-size: 12px;
+	color: #FFFFFF;
+	padding-top: 6px;
+}
+a.w12:link {
+	font-family: "宋体";
+	font-size: 12px;
+	color: #FFFFFF;
+	padding-top: 6px;
+}
+a.w12:visited {
+	font-family: "宋体";
+	font-size: 12px;
+	color: #FFFFFF;
+	padding-top: 6px;
+}
+a.w12:hover {
+	font-family: "宋体";
+	font-size: 12px;
+	color: #FFFFFF;
+	padding-top: 6px;
+}
+a.w12:active {
+	font-family: "宋体";
+	font-size: 12px;
+	color: #FFFFFF;
+	padding-top: 6px;
+}
+.12txt20 {
+	font-family: "宋体";
+	font-size: 12px;
+	line-height: 25px;
+	color: #000000;
+}
+.jl {
+	padding-top: 2px;
+	border: thin solid #FFCA95;
+}
